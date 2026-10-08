@@ -1,5 +1,15 @@
 # Riemann Hypothesis
-An Adelic Gelfand Triple Framework for the Riemann Hypothesis via Euler Product Unitarity
 
-A ZFC-compliant mathematical framework modeling the nontrivial zeros of the Riemann zeta function via non-Hermitian CPT-symmetric scattering on Adelic Gelfand Triples.
+Vlasov–Quasi-Riemann Hypothesis Resolution, Version 10.7.2026,
+https://github.com/toandreyras/Riemann-Hypothesis-proposed-resolution/wiki/Vlasov–Quasi%E2%80%90Riemann-Hypothesis-Resolution
+
+Proposed Resolution of the Riemann Hypothesis, Version 8.10.2026,
+https://github.com/toandreyras/Riemann-Hypothesis-proposed-resolution/wiki/Proposed-Resolution-of-the-Riemann-Hypothesis-via-Motivic%E2%80%90Spectral-Isomorphisms-and-Topological-Renormalization-on-the-F1%E2%80%90Curve
+
+An Adelic Gelfand Triple Framework for the Riemann Hypothesis via Euler Product Unitarity, Version 8.4.2026,
 https://github.com/toandreyras/Riemann-Hypothesis/wiki/An-Adelic-Gelfand-Triple-Framework-For-The-Riemann-Hypothesis-Via-Euler-Product-Unitarity
+
+---
+
+## Licensing
+The source code and mathematical formulas in this repository are licensed under the GNU Affero General Public License v3 (AGPL-3.0). The text content is licensed under the CC BY-NC 4.0 License.
